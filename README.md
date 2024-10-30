@@ -1,7 +1,7 @@
 ## Hi there I'm Nagiyd or "Naj" 👋
 
 <ul>
-  <li>👀 I’m interested in Music, Art, and</li>
+  <li>👀 I’m interested in many things, but mainly music, art, and traveling!</li>
   <li> 💻  👩‍🎨 I’m currently learning about ML and also about bleach painting on fabric!❤️</li>
   <li>📫 Reach out to me on LinkedIn!</li>
 </ul>
