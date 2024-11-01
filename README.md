@@ -3,7 +3,7 @@
 <ul>
   <li>👀 I’m interested in many things, but mainly music, art, and traveling!</li>
   <li> 💻  👩‍🎨 I’m currently learning about ML and also about bleach painting on fabric!❤️</li>
-  <li>📫 Reach out to me on <a href="https://www.linkedin.com/in/nagiyd-ewell/" LinkedIn!</a></li>
+  <li>📫 Reach out to me on <span><a href="https://www.linkedin.com/in/nagiyd-ewell/"/>LinkedIn!</span></li>
 </ul>
 
 # Tech Stack 💪 
